@@ -1,5 +1,6 @@
 # Titanic-machine-learning-disaster-
-#INTRODUCTION
+
+# INTRODUCTION
 This repository contains an end-to-end analysis and solution to the Kaggle Titanic survival prediction competition. I have structured this notebook in such a way that it is beginner-friendly by avoiding excessive technical jargon as well as explaining in detail each step of my analysis. This notebook also includes brief explanations of some basic data science concepts and terminology.
 
 # PROBLEM STATEMENT
